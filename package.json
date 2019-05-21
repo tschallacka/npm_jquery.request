@@ -20,7 +20,7 @@
   "dependencies": {
     "jquery": "*",
     "@tschallacka/oc.foundation.request": "*",
-    "@tschallacka/parameter_to_object": "*",
+    "@tschallacka/parameter_to_object": "*"
   },
   "author": "Tschallacka, OctoberCMS",
   "license": "MIT",
