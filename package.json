@@ -1,0 +1,31 @@
+{
+  "name": "@tschallacka/jquery.request",
+  "version": "1.0.0",
+  "description": "A jQuery request library based on OctoberCMS request api",
+  "main": "jquery.request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tschallacka/npm_jquery.request.git"
+  },
+  "keywords": [
+    "jquery",
+    "ajax",
+    "october",
+    "octobercms",
+    "request"
+  ],
+  "dependencies": {
+    "jquery": "*",
+    "@tschallacka/oc.foundation.request": "*",
+    "@tschallacka/parameter_to_object": "*",
+  },
+  "author": "Tschallacka, OctoberCMS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tschallacka/npm_jquery.request/issues"
+  },
+  "homepage": "https://github.com/tschallacka/npm_jquery.request#readme"
+}
