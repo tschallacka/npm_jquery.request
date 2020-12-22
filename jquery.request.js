@@ -50,7 +50,7 @@ $.fn.request.noConflict = function() {
 
 
 
-$(document).on('change', 'select[data-request], input[type=radio][data-request], input[type=checkbox][data-request]', function () {
+$(document).on('change', 'input[type=hidden][data-request], select[data-request], input[type=radio][data-request], input[type=checkbox][data-request]', function () {
     $(this).request();
 })
 

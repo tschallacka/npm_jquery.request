@@ -1,6 +1,6 @@
 {
   "name": "@tschallacka/jquery.request",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A jQuery request library based on OctoberCMS request api",
   "main": "jquery.request.js",
   "scripts": {
